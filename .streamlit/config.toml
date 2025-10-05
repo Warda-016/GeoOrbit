@@ -1,0 +1,11 @@
+[server]
+headless = false
+runOnSave = true
+address = "localhost"
+port = 8501
+
+[theme]
+primaryColor = "#ff6b6b"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f2f6"
+textColor = "#262730"

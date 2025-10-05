@@ -1,6 +1,12 @@
 streamlit
-pandas
+streamlit-folium
 folium
+plotly
+openai
+pandas
+numpy
 geopandas
-matplotlib
 scikit-learn
+matplotlib
+requests
+
